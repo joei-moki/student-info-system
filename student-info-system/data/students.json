@@ -1,0 +1,9 @@
+[
+    {
+        "student_id": "1000",
+        "name": "Andrea Plaza",
+        "age": 20,
+        "course": "BSIT",
+        "email": "Andrea@gmail.com"
+    }
+]
