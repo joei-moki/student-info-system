@@ -89,5 +89,5 @@ Application logs are stored in `logs/app.log`.
 - Deploy the application to a cloud environment.
 
 ## Author
-
-Student Information System Project
+**Joei**
+BSIT / 3A, Panpacificu
